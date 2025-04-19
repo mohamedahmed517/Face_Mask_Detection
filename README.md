@@ -26,16 +26,6 @@ A computer vision application that detects faces in real-time using a webcam and
 
 ---
 
-## 📦 Installation
-
-> Steps to set up the environment and install dependencies.
-
-```bash
-
-pip install -r requirements.txt
-
----
-
 ## 🛠️ Technologies Used
 
 > Tools and libraries powering this project.
@@ -57,3 +47,9 @@ pip install -r requirements.txt
 | Accuracy   | 98%        |
 | Precision  | 97%        |
 | Recall     | 98%        |
+
+## 📦 Installation
+
+```bash
+
+pip install -r requirements.txt
